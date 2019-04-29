@@ -1,0 +1,24 @@
+{
+  "name": "commandline-ui",
+  "version": "0.0.1",
+  "description": "Ask a user questions on the commandline and process answers.",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ida/commandline-ui.git"
+  },
+  "keywords": [
+    "readline",
+    "commandline",
+    "interface",
+    "user-interface",
+    "ui",
+    "questionnaire"
+  ],
+  "author": "Ida Ebkes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ida/commandline-ui/issues"
+  },
+  "homepage": "https://github.com/ida/commandline-ui#readme"
+}
