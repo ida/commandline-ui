@@ -1,6 +1,5 @@
 const rl = require('readline')
 
-
 /**
 Ask user a question on the commandline and pass received answer to a handler.
 
@@ -112,7 +111,7 @@ function askQuestions(questions, onAnswers, onAnswer, io) {
 
         io.close()
 
-        return // end loop
+        return true // end loop
 
       }
 
