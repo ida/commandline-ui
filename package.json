@@ -1,6 +1,6 @@
 {
   "name": "commandline-ui",
-  "version": "0.0.2",
+  "version": "0.0.3dev",
   "description": "Ask a user questions on the commandline and process answers.",
   "main": "index",
   "repository": {
